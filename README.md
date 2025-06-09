@@ -4,9 +4,9 @@
 
 <img src="assets/Logo.png" width="200px" alt="Good-GYM Logo">
 
-[![GitHub stars](https://img.shields.io/github/stars/yo-WASSUP/Good-GYM?style=social)](https://github.com/yo-WASSUP/Good-GYM/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yo-WASSUP/Good-GYM?style=social)](https://github.com/yo-WASSUP/Good-GYM/network/members)
-[![GitHub license](https://img.shields.io/github/license/yo-WASSUP/Good-GYM)](https://github.com/yo-WASSUP/Good-GYM/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/buke18/AI-gym?style=social)](https://github.com/buke18/AI-gym/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/buke18/AI-gym?style=social)](https://github.com/buke18/AI-gym/network/members)
+[![GitHub license](https://img.shields.io/github/license/buke18/AI-gym)](https://github.com/buke18/AI-gym/blob/main/LICENSE)
 
 **Intelligent Fitness Assistant Based on RTMPose**
 
@@ -74,7 +74,7 @@
 
 1. **Clone and install**
    ```bash
-   git clone https://github.com/yo-WASSUP/Good-GYM.git
+   git clone https://github.com/buke18/AI-gym.git
    cd Good-GYM
    
    # Create virtual environment
