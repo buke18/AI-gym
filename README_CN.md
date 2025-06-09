@@ -72,7 +72,7 @@
 
 1. **克隆并安装**
    ```bash
-   git clone https://github.com/yo-WASSUP/Good-GYM.git
+   git clone https://github.com/buke18/AI-gym.git
    cd Good-GYM
    
    # 创建虚拟环境
