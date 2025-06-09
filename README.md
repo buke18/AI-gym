@@ -1,4 +1,4 @@
-# Good-GYM: AI-Powered Workout Assistant 💪
+# AI-GYM: AI-Powered Workout Assistant 💪
 
 <div align="center">
 
