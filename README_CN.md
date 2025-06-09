@@ -4,9 +4,9 @@
 
 <img src="assets/Logo-ch.png" width="200px" alt="Good-GYM 标志">
 
-[![GitHub stars](https://img.shields.io/github/stars/yo-WASSUP/Good-GYM?style=social)](https://github.com/yo-WASSUP/Good-GYM/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yo-WASSUP/Good-GYM?style=social)](https://github.com/yo-WASSUP/Good-GYM/network/members)
-[![GitHub license](https://img.shields.io/github/license/yo-WASSUP/Good-GYM)](https://github.com/yo-WASSUP/Good-GYM/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/yo-WASSUP/Good-GYM?style=social)](https://github.com/buke18/AI-gym/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yo-WASSUP/Good-GYM?style=social)](https://github.com/buke18/AI-gym/network/members)
+[![GitHub license](https://img.shields.io/github/license/yo-WASSUP/Good-GYM)](https://github.com/buke18/AI-gym/blob/main/LICENSE)
 
 **基于RTMPose姿态检测的AI健身助手**
 
